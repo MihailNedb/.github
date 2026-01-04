@@ -25,7 +25,7 @@
 ---
 
 ## Academic Background
-- **Studying in Mathematics & Computer Science** – Faculty of Applied Mathematics and Computer Science (FAMCS), Belarusian State University (BSU)
+- **Studying at the Faculty of Applied Mathematics and Computer Science (FAMCS), Belarusian State University (BSU)
 - **Specialization**: Mathematician-Programmer
 - **Core Focus**: Algorithm design, mathematical modeling, software engineering principles
 
